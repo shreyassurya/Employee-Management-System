@@ -13,11 +13,16 @@ A ReactJS-based Employee Management System that streamlines task assignment and 
 
 🛠 Tech Stack
 Frontend: ReactJS (Functional Components + Hooks)
+
 State Management: useState, useEffect (optional: Context API or Redux)
+
 Styling: CSS/SCSS or styled-components
+
 Backend/Storage: (Optional - can integrate Firebase, ExpressJS, or localStorage for persistence)
 
 🧪 Demo Login
 To explore the app as an employer, use the following credentials:
+
 Email: e@e.com  
+
 Password: 123
